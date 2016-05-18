@@ -1,11 +1,3 @@
 Mars is a reddish planet.
 It has jshdiwhe
-<<<<<<< HEAD
-
-I am going to push this file to repository
-=======
-I apply some changes
-you apply some changes
-shima told me how to apply changes
-Havase baghali polo kardam
->>>>>>> b7774226ad3bfdbb272463cf2d58c79d2066d7a7
+I apply some new changes
