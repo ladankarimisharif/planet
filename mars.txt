@@ -1,4 +1,5 @@
 Mars is a reddish planet.
+It has jshdiwhe
 <<<<<<< HEAD
 
 I am going to push this file to repository
